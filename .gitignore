@@ -1,0 +1,9 @@
+dynamic-url/app1/node_modules/
+dynamic-url/app1/dist/
+dynamic-url/app2/node_modules/
+dynamic-url/app2/dist/
+
+static-url/app1/node_modules/
+static-url/app1/dist/
+static-url/app2/node_modules/
+static-url/app2/dist/

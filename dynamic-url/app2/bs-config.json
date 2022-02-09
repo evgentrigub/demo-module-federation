@@ -1,0 +1,7 @@
+{
+  "port": 4002,
+  "https": true,
+  "files": ["./src/**/*.{html,js}"],
+  "server": { "baseDir": "./dist" },
+  "cors": true
+}
